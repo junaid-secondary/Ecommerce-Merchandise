@@ -82,6 +82,21 @@ body {
   width: 100%;
 }
 
+.collection {
+}
+
+.collection .heading {
+}
+
+.collection .text {
+}
+
+.collection .images {
+}
+
+.images img {
+}
+
 @media screen and (min-width: 1200px) {
   .hero {
     flex-direction: row;
